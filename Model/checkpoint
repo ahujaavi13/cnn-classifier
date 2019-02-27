@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ubuntu/users/abhishek/classifier-with-cnn/Model/helmet_detector.tflearn"
+all_model_checkpoint_paths: "/home/ubuntu/users/abhishek/classifier-with-cnn/Model/helmet_detector.tflearn"

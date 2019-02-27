@@ -1,0 +1,8 @@
+nohup: ignoring input
+  0%|          | 0/443 [00:00<?, ?it/s]100%|██████████| 443/443 [00:00<00:00, 8748.91it/s]
+WARNING:tensorflow:From /home/ubuntu/anaconda3/envs/tensorflow_p36/lib/python3.6/site-packages/tflearn/initializations.py:119: UniformUnitScaling.__init__ (from tensorflow.python.ops.init_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.initializers.variance_scaling instead with distribution=uniform to get equivalent behavior.
+WARNING:tensorflow:From /home/ubuntu/anaconda3/envs/tensorflow_p36/lib/python3.6/site-packages/tflearn/objectives.py:66: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
